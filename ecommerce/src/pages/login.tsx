@@ -44,7 +44,7 @@ const LoginForm = () => {
       </div>
       <button type="submit">Entrar</button>
       <div>
-          <p>Não tem uma conta? <a href='/cadastrar'>Cadastre-se</a>
+          <p>Não tem uma conta? <a href='/cadastro'>Cadastre-se</a>
           </p>
           </div>
     </form>
